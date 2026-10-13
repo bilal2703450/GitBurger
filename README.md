@@ -4,7 +4,7 @@ Bienvenue chez **GitBurger** !
 
 Découvrez notre recette de hamburger maison.
 
-## Notre recette
+## Notre recette 
 
 - Pain burger
 - Steak
